@@ -1,0 +1,32 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "journal-grimoire",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "journal-grimoire (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "journal-grimoire (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "journal-grimoire (iOS Simulator)",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "488741D9-75C7-4229-8312-1925F3DFEF79",
+            "flutterMode": "debug"
+        }
+    ]
+}
